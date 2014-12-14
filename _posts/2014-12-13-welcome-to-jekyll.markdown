@@ -1,5 +1,6 @@
 ---
 layout: post
+tease: "Well, now, isn't this special?"
 title:  "Welcome to Jekyll!"
 date:   2014-12-13 19:37:32
 categories: jekyll update
